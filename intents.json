@@ -1,0 +1,1049 @@
+{
+  "intents": [
+    {
+      "tag": "overview",
+      "patterns": [
+        "University of the Immaculate Conception",
+        "UIC",
+        "Catholic University",
+        "RVM Institution"
+      ],
+      "responses": [
+        "The University of the Immaculate Conception (UIC) is a Catholic, Filipino, RVM institution committed to transformative Ignacian Marian education."
+      ]
+    },
+    {
+      "tag": "graduate attributes",
+      "patterns": [
+        "Ignacian Marian leaders",
+        "responsible global citizens",
+        "faith",
+        "humble service",
+        "excellence"
+      ],
+      "responses": [
+        "UIC envisions its graduates to be Ignacian Marian leaders, responsible global citizens with profound faith in God, inspired by humble service, and committed to excellence."
+      ]
+    },
+    {
+      "tag": "RVM Philosophy",
+      "patterns": [
+        "RVM Philosophy of Education",
+        "God",
+        "Jesus Christ",
+        "Mary",
+        "Mother Ignacia"
+      ],
+      "responses": [
+        "The University adheres to the RVM Philosophy of Education, which centers on God, Jesus Christ, and Mary, with inspiration from Mother Ignacia del Espiritu Santo."
+      ]
+    },
+    {
+      "tag": "School Seal",
+      "patterns": ["School Seal", "AM", "Ave Maria", "Sampaguita"],
+      "responses": [
+        "The school seal includes 'AM' for 'Ave Maria,' stars representing Mary's prerogatives, rays of light from God, a Sampaguita symbolizing purity, and the Latin inscription 'Initium sapientiae timor Domini'."
+      ]
+    },
+    {
+      "tag": "School Motto",
+      "patterns": [
+        "School Motto",
+        "Initium Sapientiae Timor Domini",
+        "fear of the Lord"
+      ],
+      "responses": [
+        "The school motto is 'Initium Sapientiae Timor Domini,' which means 'The fear of the Lord is the beginning of wisdom'."
+      ]
+    },
+    {
+      "tag": "Vision",
+      "patterns": [
+        "UIC Vision",
+        "globally recognized",
+        "faith",
+        "excellence",
+        " lifelong learners",
+        "compassion for service"
+      ],
+      "responses": [
+        "The vision of UIC is to be a globally recognized Catholic university that nurtures faith, builds a passion for excellence, and develops lifelong learners with compassion for service."
+      ]
+    },
+    {
+      "tag": "Mission",
+      "patterns": [
+        "UIC Mission",
+        "educational experience",
+        "serving others",
+        "research",
+        "Filipino culture",
+        "Catholic doctrine"
+      ],
+      "responses": [
+        "The mission includes providing excellent education, inculcating service values, engaging in research, upholding the dignity of the poor, promoting Filipino culture, and administering the university according to Catholic doctrine."
+      ]
+    },
+    {
+      "tag": "Core Values",
+      "patterns": ["Core Values", "Faith", "Excellence", "Service"],
+      "responses": ["UIC’s core values are Faith, Excellence, and Service."]
+    },
+    {
+      "tag": "Institutional Learning Outcomes",
+      "patterns": [
+        "ILOs",
+        "Critical Thinker",
+        "Information Competent",
+        "Creative",
+        "Effective",
+        "Communicator",
+        "Faithful Collaborator",
+        "Socially and Ethically Responsible",
+        "Life-Long Learner"
+      ],
+      "responses": [
+        "The Institutional Learning Outcomes (ILOs) include being a Critical Thinker, Information Competent, Creative, Effective Communicator, Faithful Collaborator, Socially and Ethically Responsible, and a Life-Long Learner."
+      ]
+    },
+    {
+      "tag": "Accountancy Program",
+      "patterns": [
+        "Bachelor of Science in Accountancy",
+        "BSA",
+        "accounting competence",
+        "professional activities"
+      ],
+      "responses": [
+        "The BS Accountancy program aims to produce graduates with professional accounting competence, who adapt to changes in standards, and engage in activities reflecting faith, service, and excellence."
+      ]
+    },
+    {
+      "tag": "Business Information System Program",
+      "patterns": [
+        "Bachelor of Science in Accounting Information System",
+        "BSAIS",
+        "accounting information system research"
+      ],
+      "responses": [
+        "The BS Accounting Information System program aims to produce graduates with professional accounting competence, who can adapt to changes and engage in activities reflecting faith, service, and excellence."
+      ]
+    },
+    {
+      "tag": "Business Administration - Financial Management",
+      "patterns": [
+        "BSBA-FM",
+        "Bachelor of Science in Business Administration - Financial Management",
+        "financial management"
+      ],
+      "responses": [
+        "The BSBA in Financial Management program aims to produce graduates who are ethical, creative, and competent in the field of financial management."
+      ]
+    },
+    {
+      "tag": "Business Administration - Human Resource Management",
+      "patterns": [
+        "BSBA major in Human Resource Management",
+        "BSBA-HRM",
+        "Human Resource Management field"
+      ],
+      "responses": [
+        "The BSBA in Human Resource Management program aims to produce graduates who are ethical, creative, and competent in the field of human resource management."
+      ]
+    },
+    {
+      "tag": "Business Administration - Marketing Management",
+      "patterns": [
+        "BSBA major in Marketing Management",
+        "BSBA-MM",
+        "Marketing Management field"
+      ],
+      "responses": [
+        "The BSBA in Marketing Management program aims to produce graduates who are ethical, creative, and competent in the field of marketing management."
+      ]
+    },
+    {
+      "tag": "Real Estate Management Program",
+      "patterns": [
+        "Bachelor of Science in Real Estate Management",
+        "BSREM",
+        "Real Estate Management field"
+      ],
+      "responses": [
+        "The BS in Real Estate Management program aims to produce graduates who are ethical, creative, and competent in the field of real estate management."
+      ]
+    },
+    {
+      "tag": "Elementary Education Program",
+      "patterns": [
+        "Bachelor of Elementary Education",
+        "teaching and learning process",
+        "BEED"
+      ],
+      "responses": [
+        "The Bachelor of Elementary Education program produces graduates proficient in teaching, with knowledge of diverse cultures and values."
+      ]
+    },
+    {
+      "tag": "Special Needs Education Program",
+      "patterns": ["Bachelor of Special Needs Education", "BSNED"],
+      "responses": [
+        "The Bachelor of Special Needs Education program focuses on creating respectful and inclusive learning experiences for students with additional needs."
+      ]
+    },
+    {
+      "tag": "Early Childhood Education Program",
+      "patterns": ["Bachelor of Early Childhood Education", "BECED"],
+      "responses": [
+        "The Bachelor of Early Childhood Education program aims to produce graduates who are responsive to the needs of young children, with Christian values."
+      ]
+    },
+    {
+      "tag": "Physical Education Program",
+      "patterns": [
+        "Bachelor of Physical Education",
+        "physical activities",
+        "BPED"
+      ],
+      "responses": [
+        "The Bachelor of Physical Education program aims to produce graduates with skillful performance in physical activities, and who can create relevant learning programs."
+      ]
+    },
+    {
+      "tag": "Secondary Education - Mathematics",
+      "patterns": ["BSED major in Mathematics", "BSED-Math"],
+      "responses": [
+        "The BSED major in Mathematics program aims to produce graduates with competence in mathematical concepts and procedures."
+      ]
+    },
+    {
+      "tag": "Secondary Education - Science",
+      "patterns": ["BSED major in Science", "BSED-Sci"],
+      "responses": [
+        "The BSED major in Science program aims to produce graduates with a deep understanding of scientific concepts."
+      ]
+    },
+    {
+      "tag": "Secondary Education - English",
+      "patterns": ["BSED major in English", "BSED-Eng"],
+      "responses": [
+        "The BSED major in English program aims to produce graduates with broad knowledge of the English language and its use."
+      ]
+    },
+    {
+      "tag": "Secondary Education - Filipino",
+      "patterns": ["BSED major in Filipino", "BSED-Fil"],
+      "responses": [
+        "The BSED major in Filipino program aims to produce graduates with knowledge in teaching Filipino language and literature, as well as culture."
+      ]
+    },
+    {
+      "tag": "Architecture Program",
+      "patterns": ["BS Architecture", "BSARCH", "Architecture"],
+      "responses": [
+        "The BS Architecture program aims to produce graduates who can apply research methods to address architectural problems."
+      ]
+    },
+    {
+      "tag": "Civil Engineering Program",
+      "patterns": [
+        "Bachelor of Science in Civil Engineering",
+        "Civil Engineering",
+        "BSCE"
+      ],
+      "responses": [
+        "The BS Civil Engineering program aims to produce graduates who can apply mathematics and science to solve civil engineering problems."
+      ]
+    },
+    {
+      "tag": "Computer Engineering Program",
+      "patterns": [
+        "Bachelor of Science in Computer Engineering",
+        "Computer Engineering",
+        "BSCpE"
+      ],
+      "responses": [
+        "The BS Computer Engineering program aims to produce graduates who can apply math and science to solve computer engineering problems."
+      ]
+    },
+    {
+      "tag": "Electronics Engineering Program",
+      "patterns": [
+        "BS Electronics Engineering",
+        "Electronics Engineering",
+        "BSEE"
+      ],
+      "responses": [
+        "The BS Electronics Engineering program aims to produce graduates who can apply math and science to solve electronics engineering problems."
+      ]
+    },
+    {
+      "tag": "English Language Studies Program",
+      "patterns": ["AB English Language Studies"],
+      "responses": [
+        "The AB English Language Studies program aims to produce graduates with a comprehensive view of the English language."
+      ]
+    },
+    {
+      "tag": "Philosophy Program",
+      "patterns": ["BA Philosophy", "BA-PHILO"],
+      "responses": [
+        "The BA Philosophy program aims to produce graduates who can think critically and analyze theories."
+      ]
+    },
+    {
+      "tag": "Psychology Program",
+      "patterns": [" BA Psychology", "BA-PSYCH", "Psychology"],
+      "responses": [
+        "The BA Psychology program aims to produce graduates who can analyze psychological theories and apply research methods."
+      ]
+    },
+    {
+      "tag": "Communication Program",
+      "patterns": [
+        "BA Communication",
+        "communication and media",
+        "different formats",
+        "BA-COM"
+      ],
+      "responses": [
+        "The BA Communication program aims to produce graduates who can communicate in different formats and platforms."
+      ]
+    },
+    {
+      "tag": "Computer Science Program",
+      "patterns": [
+        "BS Computer Science",
+        "computing problems",
+        "algorithms",
+        "BSCS"
+      ],
+      "responses": [
+        "The BS Computer Science program aims to produce graduates who can design complex software and develop new algorithms."
+      ]
+    },
+    {
+      "tag": "Information Technology Program",
+      "patterns": [
+        "BS Information Technology",
+        "IT infrastructure",
+        "technology needs",
+        "BSIT"
+      ],
+      "responses": [
+        "The BS Information Technology program aims to produce graduates who can configure IT infrastructure and provide technical expertise."
+      ]
+    },
+    {
+      "tag": "Information Systems Program",
+      "patterns": [
+        "BS Information Systems",
+        "Information System",
+        "business processes",
+        "BSIS"
+      ],
+      "responses": [
+        "The BS Information Systems program aims to produce graduates who can implement information systems and provide technical expertise."
+      ]
+    },
+    {
+      "tag": "Medical Laboratory Science Program",
+      "patterns": [
+        "Bachelor in Medical Laboratory Science",
+        "clinical laboratory tests",
+        "health information",
+        "BSMLS"
+      ],
+      "responses": [
+        "The Bachelor in Medical Laboratory Science program aims to produce graduates with competence in clinical laboratory tests and health information."
+      ]
+    },
+    {
+      "tag": "Music Education Program",
+      "patterns": [
+        "BM Music Education",
+        "music education problems",
+        "music productions",
+        "BM"
+      ],
+      "responses": [
+        "The BM Music Education program aims to produce graduates who can apply knowledge of music education to solve problems and design productions."
+      ]
+    },
+    {
+      "tag": "Nutrition and Dietetics Program",
+      "patterns": [
+        "BS Nutrition and Dietetics",
+        "nutritional needs",
+        "nutrition programs",
+        "BSND"
+      ],
+      "responses": [
+        "The BS Nutrition and Dietetics program aims to produce graduates who can assess nutritional needs and manage nutrition programs."
+      ]
+    },
+    {
+      "tag": "Hotel, Restaurant and Institution Management Program",
+      "patterns": [
+        "BS Hotel, Restaurant and Institution Management",
+        "hospitality management",
+        "tourism industry",
+        "BSHRIM"
+      ],
+      "responses": [
+        "The BS Hotel, Restaurant and Institution Management program aims to produce graduates with competence in hospitality management."
+      ]
+    },
+    {
+      "tag": "Tourism Management Program",
+      "patterns": [
+        "BS Tourism Management",
+        "tourism industry",
+        "tour guiding",
+        "BSTM"
+      ],
+      "responses": [
+        "The BS Tourism Management program aims to produce graduates with competence in tourism management and tour guiding."
+      ]
+    },
+    {
+      "tag": "Nursing Program",
+      "patterns": ["BS Nursing", "nursing process", "health sciences", "BSN"],
+      "responses": [
+        "The BS Nursing program aims to produce graduates who can apply knowledge of health sciences and provide holistic care."
+      ]
+    },
+    {
+      "tag": "Chemistry Program",
+      "patterns": [
+        "BS Chemistry",
+        "chemistry problems",
+        "professional development",
+        "BSCHEM"
+      ],
+      "responses": [
+        "The BS Chemistry program aims to produce graduates who can solve chemistry problems and engage in professional development."
+      ]
+    },
+    {
+      "tag": "Pharmacy Program",
+      "patterns": [
+        "BS Pharmacy",
+        "pharmaceutical care",
+        "professional pharmacist",
+        "BSPH"
+      ],
+      "responses": [
+        "The BS Pharmacy program aims to produce graduates who can practice as professional pharmacists and provide pharmaceutical care."
+      ]
+    },
+    {
+      "tag": "Tertiary Department Goals",
+      "patterns": [
+        "IGNITES",
+        "Integrated",
+        "God-centered",
+        "Nationalistic",
+        "Innovative",
+        "Transformative",
+        "Service-oriented"
+      ],
+      "responses": [
+        "The Tertiary Department aims to produce graduates who are Integrated, God-centered, Nationalistic, Innovative, Transformative, and Service-oriented (IGNITES)."
+      ]
+    },
+    {
+      "tag": "Good Manners and Right Conduct",
+      "patterns": [
+        "Good Manners and Right Conduct",
+        "office",
+        "stairway",
+        "canteen"
+      ],
+      "responses": [
+        "Students are expected to demonstrate good manners and right conduct in the office, stairway, and canteen."
+      ]
+    },
+    {
+      "tag": "Admission Policy",
+      "patterns": [
+        "Admission",
+        "open admission",
+        "screening",
+        "priority students"
+      ],
+      "responses": [
+        "UIC has an open admission policy but reserves the right to refuse admission."
+      ]
+    },
+    {
+      "tag": "Admission Requirements - New Students",
+      "patterns": [
+        "New student requirements",
+        "placement exam",
+        "report card",
+        "PSA birth certificate"
+      ],
+      "responses": [
+        "New students must submit placement exam results, high school report card, PSA birth certificate, and other documents."
+      ]
+    },
+    {
+      "tag": "Admission Requirements - Returnees",
+      "patterns": ["Returnee requirements", "previous grades", "clearance"],
+      "responses": [
+        "Returnees must submit previous grades and a clearance if suspended/excluded."
+      ]
+    },
+    {
+      "tag": "Admission Requirements - Transferees",
+      "patterns": [
+        "Transferee requirements",
+        "transcript",
+        "honorable dismissal",
+        "PSA birth certificate"
+      ],
+      "responses": [
+        "Transferees must submit a transcript of records, honorable dismissal, and PSA birth certificate."
+      ]
+    },
+    {
+      "tag": "Admission Requirements - Shiftees",
+      "patterns": ["Shiftee requirements", "parent's consent"],
+      "responses": ["Shiftees must submit a parent's consent to shift."]
+    },
+    {
+      "tag": "International Student Admission",
+      "patterns": [
+        "International student",
+        "email",
+        "registrar",
+        "sworn statements"
+      ],
+      "responses": [
+        "International students can inquire through the registrar's office and must submit notarized documents."
+      ]
+    },
+    {
+      "tag": "International Student Requirements",
+      "patterns": [
+        "International student requirements",
+        "passport",
+        "visa",
+        "ACR",
+        "affidavit of support"
+      ],
+      "responses": [
+        "International students need to submit a passport, visa, ACR (if applicable), affidavit of support, and police clearance."
+      ]
+    },
+    {
+      "tag": "Student Visa Application",
+      "patterns": [
+        "Student visa",
+        "letter request",
+        "Bureau of Immigration",
+        "medical certificate"
+      ],
+      "responses": [
+        "The application for a student visa requires a letter request, medical certificate, and other documents."
+      ]
+    },
+    {
+      "tag": "Student Visa Extension",
+      "patterns": [
+        "Student visa extension",
+        "Certificate of Re-admission",
+        "transcript"
+      ],
+      "responses": [
+        "Student visa extension requires a Certificate of Re-admission or enrollment and transcript."
+      ]
+    },
+    {
+      "tag": "Student Retention Policy",
+      "patterns": ["Student retention", "failures", "probationary status"],
+      "responses": [
+        "Students with three failures or not meeting program standards may not be readmitted, but may be allowed to shift to another program under certain conditions."
+      ]
+    },
+    {
+      "tag": "Changing Courses",
+      "patterns": [
+        "Changing courses",
+        "Program Dean approval",
+        "adding and dropping form"
+      ],
+      "responses": [
+        "Changing or dropping courses requires approval from the Program Dean and completion of a form."
+      ]
+    },
+    {
+      "tag": "Outcomes-Based Education",
+      "patterns": [
+        "Outcomes-Based Education",
+        "Ignacian Marian learner",
+        "responsible global citizen"
+      ],
+      "responses": [
+        "UIC uses an Outcomes-Based Education framework, placing the Ignacian Marian learner at the heart of the curriculum."
+      ]
+    },
+    {
+      "tag": "Attendance Policy",
+      "patterns": ["Absences", "unexcused absences", "cuts", "Guidance Office"],
+      "responses": [
+        "Students with excessive unexcused absences will be referred to the Guidance Office."
+      ]
+    },
+    {
+      "tag": "Excused Absences",
+      "patterns": ["Excused absences", "illness", "death", "family member"],
+      "responses": [
+        "Absences due to illness, death of a family member, or natural calamities may be excused."
+      ]
+    },
+    {
+      "tag": "Examination Policy",
+      "patterns": [
+        "Examination schedules",
+        "cheating",
+        "honesty",
+        "special examination"
+      ],
+      "responses": [
+        "Examination schedules are announced in advance; cheating is prohibited, and special examinations may be given for valid reasons."
+      ]
+    },
+    {
+      "tag": "Cheating Definition",
+      "patterns": [
+        "Cheating",
+        "looking at paper",
+        "whispering",
+        "electronic gadgets"
+      ],
+      "responses": [
+        "Cheating includes looking at others' papers, talking, using unauthorized materials, and using electronic gadgets."
+      ]
+    },
+    {
+      "tag": "Special Examination",
+      "patterns": [
+        "Special examination",
+        "illness",
+        "death",
+        "off-campus activities"
+      ],
+      "responses": [
+        "Special examinations can be given to students who missed exams due to illness, death, or school representation."
+      ]
+    },
+    {
+      "tag": "Exemption from Final Exam",
+      "patterns": ["Exemption from final", "average of 90%", "no misbehavior"],
+      "responses": [
+        "Students with at least 90% average and no misbehavior may be exempted from final exams."
+      ]
+    },
+    {
+      "tag": "Grading System",
+      "patterns": ["Grading system", "percentage", "NA", "DRP", "PAS", "F"],
+      "responses": [
+        "UIC uses a percentage-based grading system, with NA for Not Attending, DRP for Dropped, and PAS/F for Passed/Failed."
+      ]
+    },
+    {
+      "tag": "Periodic Awards",
+      "patterns": [
+        "Periodic awards",
+        "First Honors",
+        "Second Honors",
+        "Third Honors"
+      ],
+      "responses": [
+        "Students who excel academically may receive First, Second, or Third Honors."
+      ]
+    },
+    {
+      "tag": "Graduation Awards",
+      "patterns": [
+        "Graduation awards",
+        "Summa Cum Laude",
+        "Magna Cum Laude",
+        "Cum Laude"
+      ],
+      "responses": [
+        "Graduation awards include Summa Cum Laude, Magna Cum Laude, and Cum Laude, with specific GPA and requirements."
+      ]
+    },
+    {
+      "tag": "Mother Ignacia Award",
+      "patterns": [
+        "Mother Ignacia Award",
+        "exemplary conduct",
+        "leadership",
+        "loyalty"
+      ],
+      "responses": [
+        "The Mother Ignacia award is given to students with exemplary conduct, leadership, and loyalty."
+      ]
+    },
+    {
+      "tag": "Most Active Student Award",
+      "patterns": ["Most Active Student Award", "leadership", "participation"],
+      "responses": [
+        "The Most Active Student Award is given to students who excel in leadership and school participation."
+      ]
+    },
+    {
+      "tag": "Non-Academic Awards",
+      "patterns": [
+        "Non-Academic awards",
+        "Culture and Arts Award",
+        "Athlete Award",
+        "Service Award"
+      ],
+      "responses": [
+        "Non-academic awards include the Culture and Arts Award, Athlete Award, and Service Award."
+      ]
+    },
+    {
+      "tag": "TCI Award",
+      "patterns": ["The Collegiate Immaculate Award", "TCI staff"],
+      "responses": [
+        "The TCI Award is given to graduating staff who have shown dedication to the campus press."
+      ]
+    },
+    {
+      "tag": "Most Active Organization Award",
+      "patterns": ["Most Active Organization Award", "religious club"],
+      "responses": [
+        "The Most Active Organization award recognizes clubs that have contributed to the school."
+      ]
+    },
+    {
+      "tag": "Program Awards",
+      "patterns": [
+        "Program awards",
+        "Outstanding Athlete",
+        "Outstanding Student Leader",
+        "Best in Performance"
+      ],
+      "responses": [
+        "Program awards are given to students who excel in specific areas."
+      ]
+    },
+    {
+      "tag": "Graduation Requirements",
+      "patterns": [
+        "Graduation requirements",
+        "academic requirements",
+        "internship requirements"
+      ],
+      "responses": [
+        "Students must complete academic and internship requirements to be eligible for graduation."
+      ]
+    },
+    {
+      "tag": "Graduation with Lacking Requirements",
+      "patterns": ["Lacking requirements", "appeal", "graduation ceremony"],
+      "responses": [
+        "Students with lacking requirements can appeal to join the graduation ceremony."
+      ]
+    },
+    {
+      "tag": "Scholarship Programs",
+      "patterns": [
+        "Scholarship",
+        "Mother Ignacia Scholarship Exam",
+        "High School Honors"
+      ],
+      "responses": [
+        "UIC offers scholarships for high school honors students and those who achieve high scores on the scholarship exam."
+      ]
+    },
+    {
+      "tag": "Proper Uniform",
+      "patterns": ["Proper uniform", "unprescribed uniform", "civilian attire"],
+      "responses": [
+        "Students must wear the prescribed uniform. A letter of explanation is required for not wearing the proper uniform."
+      ]
+    },
+    {
+      "tag": "ID Card Policy",
+      "patterns": ["Identification card", "ID card", "lanyard"],
+      "responses": [
+        "Students must wear and display their ID cards at all times within the school premises."
+      ]
+    },
+    {
+      "tag": "Conduct Inside School",
+      "patterns": [
+        "Conduct",
+        "respect authority",
+        "orderliness",
+        "cleanliness",
+        "CLAYGO"
+      ],
+      "responses": [
+        "Students should respect authority, maintain order, and observe the CLAYGO policy."
+      ]
+    },
+    {
+      "tag": "Prohibited Items",
+      "patterns": ["Single-use plastics", "prohibited items"],
+      "responses": ["Single-use plastics are prohibited within the campus."]
+    },
+    {
+      "tag": "Classroom Conduct",
+      "patterns": ["Classroom conduct", "prayer", "study hall"],
+      "responses": [
+        "Classes begin and end with prayer. The study hall is for studying, and silence must be observed."
+      ]
+    },
+    {
+      "tag": "School Facilities",
+      "patterns": ["School facilities", "handling", "repairs"],
+      "responses": [
+        "Students must use school facilities with care and report any deficiencies."
+      ]
+    },
+    {
+      "tag": "Notices and Announcements",
+      "patterns": ["Notices", "posters", "announcements", "approval"],
+      "responses": [
+        "All notices, posters, and announcements must be approved before posting."
+      ]
+    },
+    {
+      "tag": "Channels of Communication",
+      "patterns": ["Channels of communication", "Program Dean", "Unit Head"],
+      "responses": [
+        "Concerns should be brought to the attention of the Program Dean or Unit Head."
+      ]
+    },
+    {
+      "tag": "Off-Campus Activities",
+      "patterns": ["Off-campus activities", "OSAD", "parent's consent"],
+      "responses": [
+        "Off-campus activities must be approved by OSAD, with required documents including parent's consent."
+      ]
+    },
+    {
+      "tag": "Religious Practices",
+      "patterns": ["Religious practices", "prayer time", "silence"],
+      "responses": ["Students should observe silence during prayer time."]
+    },
+    {
+      "tag": "Disciplinary Actions",
+      "patterns": ["Disciplinary actions", "warning"],
+      "responses": [
+        "Disciplinary actions include warnings, suspensions, exclusion, and expulsion."
+      ]
+    },
+    {
+      "tag": "Drug Testing",
+      "patterns": ["Random drug testing", "CHED", "student rights"],
+      "responses": [
+        "UIC conducts random drug testing to maintain a safe environment while respecting student rights."
+      ]
+    },
+    {
+      "tag": "Due Process",
+      "patterns": [
+        "Due process",
+        "CHED",
+        "Manual of Regulations",
+        "investigation"
+      ],
+      "responses": [
+        "UIC follows due process in disciplinary cases, based on CHED guidelines and the Manual of Regulations."
+      ]
+    },
+    {
+      "tag": "OSAD",
+      "patterns": [
+        "Office of Student Affairs and Discipline",
+        "OSAD",
+        "disciplinary cases"
+      ],
+      "responses": [
+        "The Office of Student Affairs and Discipline (OSAD) handles disciplinary cases."
+      ]
+    },
+    {
+      "tag": "Student Organizations",
+      "patterns": [
+        "Student organizations",
+        "Constitution and By-Laws",
+        "membership"
+      ],
+      "responses": [
+        "Student organizations must submit their Constitution and By-Laws and membership lists to OSAD."
+      ]
+    },
+    {
+      "tag": "Student Organization Reports",
+      "patterns": [
+        "Reports",
+        "performance report",
+        "meeting minutes",
+        "financial report"
+      ],
+      "responses": [
+        "Student organizations must submit performance, financial, and activity reports to OSAD."
+      ]
+    },
+    {
+      "tag": "Supreme Student Government",
+      "patterns": ["Supreme Student Government", "SSG", "student voice"],
+      "responses": [
+        "The Supreme Student Government (SSG) is the highest student governing body and voice."
+      ]
+    },
+    {
+      "tag": "Student Publications",
+      "patterns": [
+        "Student publications",
+        "official student publication",
+        "TCI"
+      ],
+      "responses": [
+        "UIC supports student publications, including the official student publication, TCI."
+      ]
+    },
+    {
+      "tag": "TCI Purpose",
+      "patterns": [
+        "The Collegiate Immaculate",
+        "TCI",
+        "journalism",
+        "objectivity"
+      ],
+      "responses": [
+        "TCI aims to unite the academic community, develop values, and promote responsible journalism."
+      ]
+    },
+    {
+      "tag": "Learning Resources",
+      "patterns": [
+        "Learning Resources",
+        "Libraries",
+        "Laboratories",
+        "Internet access"
+      ],
+      "responses": [
+        "UIC Learning Resources include libraries, laboratories, and internet access."
+      ]
+    },
+    {
+      "tag": "Father Selga Campus Laboratories",
+      "patterns": [
+        "Father Selga Campus",
+        "Computer Hardware and Networking Laboratory",
+        "Nutrition Laboratory",
+        "Pharmaceutical Laboratory"
+      ],
+      "responses": [
+        "The Father Selga Campus has laboratories for computer hardware, nutrition, pharmaceutical mini-manufacturing, science, and speech."
+      ]
+    },
+    {
+      "tag": "Bonifacio Campus Laboratories",
+      "patterns": [
+        "Bonifacio Campus",
+        "Architecture Studio",
+        "Radio Laboratory",
+        "Soil Mechanics Laboratory"
+      ],
+      "responses": [
+        "The Bonifacio Campus has laboratories for architecture, radio, soil mechanics, and speech."
+      ]
+    },
+    {
+      "tag": "Other Facilities",
+      "patterns": [
+        "Other facilities",
+        "chapel",
+        "gymnasium",
+        "ITDIF",
+        "mini-auditorium"
+      ],
+      "responses": [
+        "Other facilities include chapels, a gymnasium, ITDIF, and mini-auditorium."
+      ]
+    },
+    {
+      "tag": "UIC NET",
+      "patterns": ["UIC NET", "internet facility", "internet services"],
+      "responses": [
+        "UIC NET provides internet services to the school and the community."
+      ]
+    },
+    {
+      "tag": "Center for Continuing Studies",
+      "patterns": [
+        "Continuing Studies",
+        "professional development",
+        "CPD Provider"
+      ],
+      "responses": [
+        "The Center for Continuing Studies and Professional Development (CCSPD) provides programs for professional competence."
+      ]
+    },
+    {
+      "tag": "TESDA Training Center",
+      "patterns": [
+        "TESDA",
+        "M. Ignacia Career Development Center",
+        "assessment center"
+      ],
+      "responses": [
+        "The M. Ignacia Career Development Center (MICDC) is UIC’s TESDA training and assessment center."
+      ]
+    },
+    {
+      "tag": "Haircut Policy",
+      "patterns": ["Haircut", "Required Haircut", "neat"],
+      "responses": [
+        "For Male students, Gentleman’s cut, presentable and neat. No punky and colored hair, top knot, mohawk, skinhead, one length, mullet, and buzz cut. For Female Students, No excessive make-up, bright or very dark nail polish, and colored streaks on hair"
+      ]
+    },
+    {
+      "tag": "Uniform",
+      "patterns": ["Uniform", "Proper Uniform"],
+      "responses": [
+        "School uniform represents the school. All students shall wear it modestly with respect and dignity befitting students in an Ignacian Marian institution. They come to school, attend classes and other school functions, avail themselves of the school services such as the library, clinic and other facilities in complete uniform. Those who are not wearing the prescribed attire shall not be allowed to enter the campus unless permission is obtained from the OSAD."
+      ]
+    },
+    {
+      "tag": "Wash Day",
+      "patterns": ["Wash Day"],
+      "responses": [
+        "On 'wash' days, Saturdays, summer class days and other occasions (e.g., intramural) students are allowed to wear fashion-oriented attire except the following: Grunge “torn” pants, Sleeveless/hanging or tight-fitting, or crop top blouses or t-shirts, Plunging necklines (two inches below the collar bone), backless, Mini-skirts/ shorts / very tight-fitting pants/ leggings, Rubber slippers"
+      ]
+    },
+    {
+      "tag": "Suspension",
+      "patterns": ["Suspend", "Suspension", "lead to suspension"],
+      "responses": [
+        "A school may suspend, deny, deprive an erring student entry in the school campus or attendance in the classes for a period not exceeding twenty (20%) percent of the prescribed school days for a school year or term. The decision of the school on every case involving the penalty of suspension which exceeds twenty (20%) percent of the prescribed school days for a school year term shall be forwarded to the Commission on Higher Education (CHED)- Regional Office (RO) within ten (10) days from the termination of the investigation of each case for its information. Suspension may include, but not limited to the following: 1. three (3) accumulated warnings for the same offense- on the 4th he/she be meted with suspension. 2. four (4) accumulated warnings for various offenses – he/she be meted with a suspension on the 5th warning. 3) Lending one’s ID to another and the willful possession of two or more ID’s. 4. Extortion, e.g., collecting money from the students in and outside the campus without permission from the duly authorized persons; Using bribery in the form of money, to gain favor from school personnel or faculty. 5. Causing public and campus disturbances, e.g., causing panic or confusion, harassment, throwing of any object in a gathering, disturbing/disrupting authorized practices and performances, symposia, lectures. 6. Publishing or circulating false information or posting malicious remarks in the social network about the University, its officials, personnel, and students 7. Taking part in brawls inside and outside the campus 8. Smoking/ Vaping within the school premises; Smoking/Vaping within 100 meters from the school; Smoking/Vaping in Uniform; Smoking/Vaping while attending any school-related activities. E-Cigarette, Vape Pods, and other smoking paraphernalia will be confiscated 9.  Behavior unbecoming of a UICian, i.e., arrogance, promiscuity, public scandal, and immorality 10. Threatening and/or preventing any student and/or teacher, personnel from entering the school premises or attending classes. 11.Refusing/ failure to appear without valid reason before a school official and/or a duly constituted body when asked to do so 12. Insubordination to authorities. 13. Fraternity and/or Sorority participation: 13.1) Formation or membership in any Fraternity and/or Sorority 13.2) Fraternity and/or initiation 13.3) Participation in terrorist-associated groups or organizations 14. Usurpation (to take or exercise authority or possession wrongfully). 15. Playing/ bringing gambling paraphernalia inside the campus or off-campus school activities 16. Computer security breach: Accessing a University computer or computer network without authority or beyond authorized access. Which includes but are not limited to the following: i. Altering information, (e.g., changing the password of someone else’s account and changing data in files beyond one’s authorized access, etc.) damaging or destroying information (e.g., using someone else’s file, etc.) ii. Making/ introducing false information; iii. Preventing authorized use of information; or iv. Preventing normal operation (e.g., changing the configuration or CMO’s set-up of a PC, introducing computer virus, etc.) of computers or computer networks of the University; v. Hacking/Cracking. vi. Giving of access to school-issued accounts (i.e., Google Classroom, myUIC portal, and Microsoft 365 etc) to unauthorized persons/Piloting accounts vii. Any violation of the Data Privacy Policy of the school. 17. Academic dishonesty in the form of plagiarism, a deliberate, conscious effort of a student to steal another’s original work and pass it off as his/ her own"
+      ]
+    },
+    {
+      "tag": "Exclusion",
+      "patterns": ["exclusion", "excluded", "lead to exclusion"],
+      "responses": [
+        "A school may exclude, drop or dismiss from its rolls a student for a semester, two semesters or both, for a summer, or for the whole school year. A student may be recommended for exclusion which may include but not limited to the following: 1) Pregnancy without the benefit of marriage (for women) and/or impregnating a UICian or non-UICian (for men) 2) Stealing school property that is vital to its operations and valuables of students, teachers, and other school personnel 3) Possessing, accessing, and downloading in the internet pornographic literature 4)Forgery and/or tampering of official school records 5) Securing or using forged and faked school records and terms/ tampering documents/ misrepresentation of facts 6)Assaulting the personnel or student in and outside the campus physically. 7) Giving slanderous/defamatory statements to personnel or students thereby causing injury to his/her person and dishonor inside and outside the campus (verbal, written, or published in any platform) 8)Strikes/demonstration resulting in damage to school properties 9) Instigating or engaging in activities resulting in damage of property vital to school’s operations 10)Doing actions that are contrary to morals inside and outside the campus, especially in uniform. i.e., petting, necking, orgies, sexual acts, and other indecent acts offensive to public laws and Catholic morality 11)Indulging in drugs – using, possessing narcotics and prohibited drugs, such as marijuana, methamphetamine hydrochloride (shabu), prohibited cough syrup or any hallucinogenic agent 12)Misappropriation of funds of student organizations or programs. Any student who fails to account or turn-over funds entrusted to his/her care or custody, without any satisfactory explanation 13)Gambling in any form (digital/physical) inside/ outside the campus (play game for money). 14)Drunkenness and/or possession of liquor, e.g., entering the campus under the influence of liquor of any amount or dosage; bringing liquor inside the campus or any school-related off-campus activities."
+      ]
+    },
+    {
+      "tag": "Expulsion",
+      "patterns": ["expel", "expulsion", "lead to expel", "lead to expulsion"],
+      "responses": [
+        "The penalty of expulsion is an extreme form of administrative sanction, which debars the student from public and private schools in the Philippines. To be valid and effective, the penalty or expulsion requires the approval of the CHED. Expulsion includes but is not limited to the following: 1. Killing a person within the school campus except for self-defense 2.Hazing, initiation rites, resulting to serious physical injury or death, whether inside or outside the campus 3.Trafficking “mind-altering” drugs within the school campus 4.Injury to the life of any personnel or student (i.e., stabbing, shooting, mauling) 5.Participating in strikes/demonstrations resulting in any injury to life. 6.Hooliganism (e.g., disruptive and unlawful behavior) 7.Immorality or actions resulting in public scandal, e.g., prostitution, adultery, etc. 8.Rape/ attempted rape 9.Sexual harassment 10. Voluntary abortion"
+      ]
+    }
+  ]
+}
