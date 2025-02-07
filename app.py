@@ -13,6 +13,11 @@ import pickle
 from flask import Flask, request, jsonify, render_template, send_from_directory, url_for
 import os
 
+# #install this once
+# nltk.download("punkt")
+# nltk.download("wordnet")
+# nltk.download('punkt_tab')
+
 # Initialize Flask app
 app = Flask(__name__)
 
